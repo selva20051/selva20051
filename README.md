@@ -111,6 +111,6 @@
 
 ###
 
-<h4 href="jw.org" align="center">The one who watches the wind will not sow seed, and the one who looks at the clouds will not reap.<br>- Ecclesiastes 11:4</h4>
+<h4 align="center">The one who watches the wind will not sow seed, and the one who looks at the clouds will not reap.<br>- Ecclesiastes 11:4</h4>
 
 ###
