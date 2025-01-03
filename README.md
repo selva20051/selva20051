@@ -1,4 +1,4 @@
-<h3 align="center">I'm Selva, a naturally curious, fast learner who loves to dive into new ideas and challenges. Whether it’s writing code, picking up a crochet hook, or exploring a new music genre, I’m always asking <strong>"Why?", "How?", and "What if?"</strong></h3>
+<h3 align="center">I'm Selva, a naturally curious, fast learner who loves to dive into new ideas and challenges. Whether it’s writing code, picking up a crochet hook, or exploring a new music genre, I’m always asking <bold>"Why?", "How?", and "What if?"</bold></h3>
 
 ###
 
